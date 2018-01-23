@@ -1,0 +1,80 @@
+
+div {
+  background-color: darkorange;
+  height: 100px;
+  padding: 10px 20px 15px 20px;
+  font-weight: normal;
+  font-style: italic;
+  font-family: Arial;
+  font-size: 24px;
+}
+
+#interfaceResults {
+  background-color: lightskyblue;
+  height: 300px;
+  padding: 10px 20px 15px 20px;
+  font-weight: normal;
+  font-style: normal;
+  font-family: Arial;
+  font-size: 24px;
+
+}
+
+#content {
+  background-color: darkorange;
+  height: 350px;
+  padding: 10px 20px 15px 20px;
+  font-weight: normal;
+  font-style: normal;
+  font-family: Arial;
+  font-size: 18px;
+  padding-top: 30px;
+
+}
+
+h1 {
+  background-color: darkorange;
+  height: 30px;
+  line-height: 1em;
+  padding: 10px 5px 15px 20px;
+  margin: 0px;
+}
+
+p {
+  background-color: dodgerblue;
+  height: 100px;
+  padding: 10px 5px 15px 20px;
+  margin: 0;
+}
+
+span {
+  background-color: darkorange;
+  height: 200px;
+  margin: 20px;
+  padding: 10px 20px 15px 20px;
+  font-weight: normal;
+  font-style: normal;
+  font-family: Arial;
+  font-size: 24px;
+  padding-top: 0px;
+
+}
+
+.error {
+  color: red;
+  font-size: 18px;
+  background-color: green;
+}
+
+
+span h1 div {
+  background-color: goldenrod;
+  padding: 10px 5px 15px 20px;
+  margin: 0;
+}
+
+button {
+  width: 200px;
+  height: 40px;
+  margin: 10px;
+}
